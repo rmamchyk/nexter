@@ -1,7 +1,7 @@
 {
   "name": "Nexter",
   "version": "1.0.0",
-  "description": "Nexter webpage",
+  "description": "Landing page of a fictional company which sells luxury homes across the world",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
